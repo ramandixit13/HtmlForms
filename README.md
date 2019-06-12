@@ -1,5 +1,7 @@
-# HtmlForms
+﻿# HtmlForms
 Creating a form for a burger store using html.
+
+
 The purpose of a <form> is to allow users to input information and send it.
 The <form>‘s action attribute determines where the form’s information goes.
 The <form>‘s method attribute determines how the information is sent and processed.
